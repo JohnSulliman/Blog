@@ -1,0 +1,29 @@
+.container {
+    max-width: 36rem;
+    padding: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    .header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 1.5rem;
+
+        .image {
+            border-radius: 4rem;
+        }
+    }
+    
+    .back {
+        margin: 3rem 0;
+    }
+}
+
+@media screen and (min-width:700px) {
+    .container {
+        max-width: none;
+        padding: 1.5rem;
+        margin: 0 15rem;
+    }
+    
+}

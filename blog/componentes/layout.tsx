@@ -1,15 +1,16 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
+import styles from '../styles/layout.module.scss';
 
 const meuNome = 'Jonathan Sulliman';
 export const tituloDoSite = 'Jonathan Sulliman - Desenvolvedor';
 
 export default function Layout(
-    { children, home }: {children: React.ReactNode, home:boolean}
+    { children, home }: {children: React.ReactNode, home?:boolean}
 ) {
     return(
-        <div>
+        <div className={styles.container}>
             <Head>
                 <link rel='icon' href='/favicon.ico' />
                 <meta 
@@ -26,18 +27,19 @@ export default function Layout(
                 <meta name="twitter:card" content="summary_large_image" />
             </Head>
 
-            <header>
+            <header className={styles.header}>
                 {home ? (
                     <>
                         <Image 
                             priority
-                            src="/img/Howl.jpg"
+                            className={styles.image}
+                            src="/img/John.jpg"
                             height={144}
                             width={144}
                             alt={meuNome}
                         />
 
-                        <p>{meuNome}</p>
+                        <p><strong>{meuNome}</strong></p>
                     </>
                 ): (
                     <>
@@ -48,7 +50,7 @@ export default function Layout(
             <main>{children}</main>
 
             {!home && (
-                <div>
+                <div className={styles.back}>
                     <Link href='/'>
                         <a>← Retornar para o Início</a>
                     </Link>
