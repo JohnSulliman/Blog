@@ -55,4 +55,4 @@ Sistema Operacional: iOS 11 ou superior
 <br/>
 
 ## Como fazer o pré-registro
-Para fazer o **pré-registro**, basta acessar o *[site do jogo](https://www.marvelfuturerevolution.com/pt)* escolher a loja do sistema operacional do seu smartphone e em seguida inserir o seu e-mail. Aceite os termos de serviço e clique em "**Registro antecipado com e-mail**".
+Para fazer o **pré-registro**, basta acessar o *[site do jogo](https://www.marvelfuturerevolution.com/pt)*, escolher a loja do sistema operacional do seu smartphone e em seguida inserir o seu e-mail. Aceite os termos de serviço e clique em "**Registro antecipado com e-mail**".
