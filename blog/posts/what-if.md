@@ -28,3 +28,7 @@ O vídeo também conta com versões alternativas do Doutor Estranho, Homem-Aranh
 <br/>
 
 [Clique aqui para acessar o vídeo!](https://www.youtube.com/watch?v=zq-dKITdTsE)
+
+<br/>
+
+### Quer acompanhar essa e mais outras séries e filmes do universo da Marvel? Acesse [Disney +](https://www.disneyplus.com/pt-br)!

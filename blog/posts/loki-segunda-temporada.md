@@ -49,4 +49,4 @@ A Marvel não revelou quando a nova temporada será lançada, mas isso só deve 
 
 <br/>
 
-Quer acompanhar essa e mais outras séries do universo da Marvel? Acesse [Disney +](https://www.disneyplus.com/pt-br)!
+### Quer acompanhar essa e mais outras séries e filmes do universo da Marvel? Acesse [Disney +](https://www.disneyplus.com/pt-br)!
